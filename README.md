@@ -1,4 +1,4 @@
-# GBCnotes
+# GBC-Notes
 
 ## My GBC Notes
 
