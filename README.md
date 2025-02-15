@@ -1,7 +1,5 @@
 # GBC-Notes
 
-## My GBC Notes
-
 ## Links
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
